@@ -7,13 +7,10 @@
 ## Sleep & Soothing
 
 **⭐ Baby Nightgown / Knotted Gown**
-Open or knotted bottom means diaper changes without fully waking the baby — no snaps, no zippers, no fumbling at 3am. A genuine game-changer.
-- [Kyte Baby Knotted Gowns](https://kytebaby.com/collections/bundlers-gowns) — bamboo, temp-regulating
-- [Caden Lane Knot Gowns](https://cadenlane.com/collections/knot-gowns) — come with matching hats, lots of neutral styles
-- [Carter's 2-Pack Sleeper Gowns](https://www.carters.com/p/baby-2-pack-sleeper-gowns/V_1P601310) — budget-friendly classic
+Open or knotted bottom means diaper changes without fully waking the baby — no snaps, no zippers, no fumbling at 3am. A genuine game-changer.  I bought you a 3 pack of these, I hope you both enjoy them as much as I did!
 
 **Hatch Rest Sound Machine / Night Light**
-White noise around the clock, doubles as a night light, and you can control it from your phone without going into the room.
+White noise around the clock, doubles as a night light, and you can control it from your phone without going into the room.  My wife bought one for our son and it's a nice sound machine and can help train your kids when to wake up.
 - [hatch.co](https://www.hatch.co/rest)
 
 **HALO SleepSack / Love to Dream Swaddle UP**
@@ -22,7 +19,7 @@ Makes swaddling easy and safe — way better than trying to wrap a burrito baby 
 - [halosleep.com](https://www.halosleep.com/)
 
 **⭐ Philips Hue Smart Bulb + Dimmer Remote**
-Put a Hue bulb in the nursery lamp and keep the battery-powered dimmer remote on your nightstand. You can turn the light on dim before you even get out of bed, set the perfect low level for a feeding or diaper change, and turn it back off without getting up again. No fumbling for switches, no blasting bright light at 3am. Pairs with the Hue app for automations but works great with just the physical remote too.
+Put a Hue bulb in the nursery lamp and keep the battery-powered dimmer remote on your nightstand. You can turn the light on dim before you even get out of bed, set the perfect low level for a feeding or diaper change, and turn it back off without getting up again. No fumbling for switches, no blasting bright light at 3am. Pairs with the Hue app for automations but works great with just the physical remote too.  Works great in most platforms as well.
 - [Philips Hue Smart Bulbs](https://www.philips-hue.com/en-us/products/smart-light-bulbs)
 - [Philips Hue Dimmer Remote — Amazon](https://www.amazon.com/Philips-Hue-Installation-Free-Exclusively-562777/dp/B08W8GLPD5)
 
@@ -31,12 +28,10 @@ Put a Hue bulb in the nursery lamp and keep the battery-powered dimmer remote on
 ## Books
 
 **⭐ Goodnight Moon**
-A timeless bedtime classic. The rhythmic, lulling words are genuinely effective at winding babies down.
-- [Amazon — Board Book](https://www.amazon.com/Goodnight-Moon-Margaret-Wise-Brown/dp/0694003611)
+I love this book, it's a great winding down book so I bought it for you.
 
 **⭐ Good Night, Curious George — Padded Touch-and-Feel**
-Curious George's calming bedtime routine with lots of touchable textures throughout. Soft padded cover, rounded corners — perfect for little hands.
-- [Amazon](https://www.amazon.com/Night-Curious-George-padded-touch/dp/1328795918)
+Curious George's calming bedtime routine with lots of touchable textures throughout. Soft padded cover, rounded corners — perfect for little hands.  My kids love it so I grabbed you a copy :)
 
 ---
 
@@ -47,7 +42,7 @@ FDA-cleared smart monitor that tracks baby's pulse rate and oxygen levels in rea
 - [owletcare.com — Dream Sock ($299.99)](https://owletcare.com/products/owlet-dream-sock)
 
 **⭐ UniFi Camera Setup**
-Better than any cloud-based baby monitor — local storage means instant video scrubbing, AI detection is fast and private, and there's no monthly fee. Worth researching based on what networking gear you already have.
+Better than any cloud-based baby monitor, local storage means instant video scrubbing, AI detection is fast and private, and there's no monthly fee. Worth researching based on what networking gear you already have. Also has AI tools like detecting babies crying, fire alarms etc...  I love being able to get notifications when I'm away.  Also worth noting that Unifi is an AMAZING network solution!
 - [UniFi Protect overview](https://ui.com/camera-security)
 - [G5 Flex indoor camera](https://store.ui.com/us/en/category/cameras-nvr/products/uvc-g5-flex)
 
